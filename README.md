@@ -1,8 +1,8 @@
 # To-Do App
 
-Techstack Used: Nextjs , React, tailwind css & TypeScript
+Techstack Used: Nextjs , React, Tailwind Css & TypeScript
 
-To See how the app works , see the full demo below
+To See how the app works , **Click the Image** Below to See the full demo below:
 
 [![Watch the video](public/img1.png)](https://www.youtube.com/watch?v=6R5w5XYnWVs)
 
@@ -12,7 +12,6 @@ Follow the steps below to set up and run the app locally on your machine.
 
 ### Prerequisites
 - Ensure you have **Node.js** and **npm** installed on your system.
-- A basic understanding of how to use Git.
 
 ### Step 1: Clone the Repository
 
